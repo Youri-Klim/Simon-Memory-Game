@@ -1,0 +1,45 @@
+html{
+    background-color: black;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 50px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+a{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+#First{
+    margin-left: 500px;
+    margin-top: 90px;
+    width: 450px;
+    height: auto;
+    border: 5px solid white;
+}
+
+#Second{
+    margin-left: 500px;
+    margin-top: 90px;
+    width: 450px;
+    height: auto;
+}
