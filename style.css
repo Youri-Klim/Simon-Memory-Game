@@ -43,3 +43,20 @@ a{
     width: 450px;
     height: auto;
 }
+
+@media (max-width: 600px){
+    #First{
+    margin-left: 50px;
+    margin-top: 90px;
+    width: 450px;
+    height: auto;
+    border: 5px solid white;
+}
+
+    #Second{
+    margin-left: 50px;
+    margin-top: 90px;
+    width: 450px;
+    height: auto;
+}
+}
