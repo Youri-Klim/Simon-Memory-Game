@@ -46,15 +46,15 @@ a{
 
 @media (max-width: 480px){
     #First{
-    margin-left: 150px;
+    margin-left: 50px;
     margin-top: 90px;
-    width: 500px;
+    width: 300px;
     height: auto;
     border: 5px solid white;
 }
 
     #Second{
-    margin-left: 150px;
+    margin-left: 50px;
     margin-top: 90px;
     width: 500px;
     height: auto;
