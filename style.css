@@ -44,7 +44,7 @@ a{
     height: auto;
 }
 
-@media (max-width: 600px){
+@media (max-width: 480px){
     #First{
     margin-left: 150px;
     margin-top: 90px;
