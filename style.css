@@ -44,19 +44,19 @@ a{
     height: auto;
 }
 
-@media (max-width: 4000px){
+@media (max-width: 600px){
     #First{
-    margin-left: 50px;
+    margin-left: 150px;
     margin-top: 90px;
-    width: 450px;
+    width: 500px;
     height: auto;
     border: 5px solid white;
 }
 
     #Second{
-    margin-left: 50px;
+    margin-left: 150px;
     margin-top: 90px;
-    width: 450px;
+    width: 500px;
     height: auto;
 }
 }
