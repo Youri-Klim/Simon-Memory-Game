@@ -45,6 +45,11 @@ a{
 }
 
 @media (max-width: 480px){
+
+    h1{text-align: left;}
+    a{text-align: left;}
+    p{text-align: left;}
+    
     #First{
     margin-left: 0px;
     margin-top: 90px;
